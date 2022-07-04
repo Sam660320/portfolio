@@ -24,8 +24,7 @@ const Skills = () => {
   }, []);
 
   
-  
-  
+
   return (
     <>
       <h2 className="head-text">Skills & Experiences</h2>
