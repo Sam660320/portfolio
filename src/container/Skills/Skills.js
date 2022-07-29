@@ -23,6 +23,7 @@ const Skills = () => {
     });
   }, []);
   
+
   
   
   return (
